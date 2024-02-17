@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>
-        Lawpops Hackathon Project
+        Lawpops Hackathon Project.
       </h1>
     </div>
   );
